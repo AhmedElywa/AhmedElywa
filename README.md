@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi, I am Ahmed   👋 :computer:
+
+- I'm full-stack developers 
+- I’m currently working on @paljs. it's open-source project to help you bootstrap your next NodeJS, @prisma, GraphQL, React project
 
 <!--
 **AhmedElywa/AhmedElywa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
